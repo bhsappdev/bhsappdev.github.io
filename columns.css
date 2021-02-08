@@ -90,9 +90,17 @@
                     }
      
      .appstorebuttons {
-              float: center;
+              float: left;
               width: 100%;
             }
 
+      .appstore{
+                min-width: 50px; 
+                max-width: 300px;
+                margin-left: 0px;
+          margin-right: 0px;
+              width: 100%;
+            border-radius: 0;
+        }
                 
         }
