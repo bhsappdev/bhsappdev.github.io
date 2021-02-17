@@ -62,6 +62,20 @@
             border-radius: 0;
         }
 
+        .vemno{
+            min-width: 100px; 
+            max-width: 250px;
+            padding: 30px
+        }
+        .donate{
+            float: left;
+            width: 70%;
+            padding: 30px 
+        }
+        .vemnoContainer{
+            float: left; width: 30%
+        }
+
  @media screen and (max-width: 700px) {
            
 
@@ -101,6 +115,19 @@
           margin-right: 0px;
               width: 100%;
             border-radius: 0;
+        }
+     .donate{
+            float: left;
+            width: 100%;
+            padding-bottom: 0px;
+        }
+     .vemnoContainer{
+            width: 100%;
+            padding: 0px;
+        }
+     .vemno{
+            min-width: 100px; 
+            max-width: 250px;
         }
                 
         }
